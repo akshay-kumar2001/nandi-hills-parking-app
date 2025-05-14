@@ -1,0 +1,142 @@
+{
+  "parkingData": [
+    {
+      "id": "a57a",
+      "name": "akshay",
+      "vehicle": "1234",
+      "phone": "9557381451",
+      "vehicleType": "2-wheeler",
+      "count": "3",
+      "amount": 60,
+      "token": "mamqckxc"
+    },
+    {
+      "id": "37ac",
+      "name": "akshay",
+      "vehicle": "1234",
+      "phone": "9557381451",
+      "vehicleType": "4-wheeler",
+      "count": "5",
+      "amount": 200,
+      "token": "mamqpfp9"
+    },
+    {
+      "id": "2a77",
+      "name": "amazon",
+      "vehicle": "1234",
+      "phone": "9557381451",
+      "vehicleType": "4-wheeler",
+      "count": "3",
+      "amount": 120,
+      "token": "mamqtgyh"
+    },
+    {
+      "id": "7860",
+      "name": "Nandu",
+      "vehicle": "3456",
+      "phone": "9897113263",
+      "vehicleType": "truck",
+      "count": "3",
+      "amount": 210,
+      "token": "mams662l"
+    },
+    {
+      "id": "4416",
+      "name": "Akshay",
+      "vehicle": "3456",
+      "phone": "9897113263",
+      "vehicleType": "2-wheeler",
+      "count": "5",
+      "amount": 120,
+      "token": "mamsoede"
+    },
+    {
+      "id": "6a05",
+      "name": "",
+      "vehicle": "",
+      "phone": "",
+      "vehicleType": "",
+      "count": "",
+      "amount": 0,
+      "token": "mamsxf4u"
+    },
+    {
+      "id": "4601",
+      "vehicle": "3456",
+      "phone": "7830390886",
+      "vehicleType": "4-wheeler",
+      "count": "3",
+      "amount": 100,
+      "rate": 40,
+      "people": 60,
+      "token": "mamte0jp",
+      "StartTime": "11:27:32 PM"
+    },
+    {
+      "id": "53f1",
+      "vehicle": "3456",
+      "phone": "9897113263",
+      "vehicleType": "4-wheeler",
+      "count": "7",
+      "amount": 180,
+      "rate": 40,
+      "people": 140,
+      "token": "mamtfl37"
+    },
+    {
+      "id": "1a8c",
+      "vehicle": "3456",
+      "phone": "09557381451",
+      "vehicleType": "4-wheeler",
+      "count": "6",
+      "amount": 160,
+      "rate": 40,
+      "people": 120,
+      "token": "mamthb4f"
+    },
+    {
+      "id": "e693",
+      "vehicle": "3456",
+      "phone": "9557381451",
+      "vehicleType": "2-wheeler",
+      "count": "5",
+      "amount": 120,
+      "rate": 20,
+      "people": 100,
+      "token": "mamtjys1"
+    },
+    {
+      "id": "a017",
+      "vehicle": "3456",
+      "phone": "9557381451",
+      "vehicleType": "2-wheeler",
+      "count": "5",
+      "amount": 120,
+      "rate": 20,
+      "people": 100,
+      "token": "mamtk09u"
+    },
+    {
+      "id": "988d",
+      "vehicle": "3456",
+      "phone": "9557381451",
+      "vehicleType": "2-wheeler",
+      "count": 1,
+      "amount": 40,
+      "rate": 20,
+      "people": 20,
+      "token": "mamtlar3"
+    },
+    {
+      "id": "f80e",
+      "vehicle": "3456",
+      "phone": "9557381451",
+      "vehicleType": "2-wheeler",
+      "count": "3",
+      "amount": 80,
+      "rate": 20,
+      "people": 60,
+      "token": "mamtmesb"
+    }
+  ]
+}
