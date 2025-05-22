@@ -25,6 +25,16 @@ Built with React, it offers a seamless, responsive experience.
 - **User Profile & Booking:** [demo.thebin.tech](https://demo.thebin.tech)  
 - **QR Code Scanner:** [scanner.thebin.tech](https://scanner.thebin.tech)
 
+ GitHub Pages.
+
+🔗 **User Panel** (Home page):  
+[https://akshay-kumar2001.github.io/nandi-hills-parking-app/#/](https://akshay-kumar2001.github.io/nandi-hills-parking-app/#/)
+
+📷 **QR Scanner**:  
+[https://akshay-kumar2001.github.io/nandi-hills-parking-app/#/admin/qr-scanner](https://akshay-kumar2001.github.io/nandi-hills-parking-app/#/admin/qr-scanner)
+
+> ℹ️ This app uses `HashRouter` to support client-side routing on GitHub Pages. All routes are prefixed with `/#/`.
+
 ---
 
 ## 🛠️ Technologies Used
